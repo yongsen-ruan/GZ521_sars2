@@ -1,0 +1,2 @@
+./bwa_out/F300007860_L01_17_17.sort.bam
+./bwa_out/F300007860_L02_17_17.sort.bam
