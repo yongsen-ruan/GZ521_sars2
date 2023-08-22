@@ -2,7 +2,7 @@
 
 * The analysisi pipline (call_iSNVs_pipeline.sh) was used for calling variants. 
 
-* For see the paper for more details. https://www.researchsquare.com/article/rs-2729811/v1
+* Please see the paper for more details. https://www.researchsquare.com/article/rs-2729811/v1
 
 
 
